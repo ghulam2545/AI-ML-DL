@@ -29,4 +29,4 @@ Dataset URL: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumo
 ![output screenshot-1](https://github.com/ghulam2545/medical_image_analysis/blob/main/screenshot/Screenshot-1.png)
 ![output screenshot-2](https://github.com/ghulam2545/medical_image_analysis/blob/main/screenshot/Screenshot-2.png)
 
-Complete project report can be founded in the `PDF`.
+The complete project report can be found in the `PDF`.
